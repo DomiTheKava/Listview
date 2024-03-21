@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         //val names = arrayOf("Swift", "Python", "JavaScript", "C#", "java", "Kotlin")
 
         val list = ArrayList<Model>()
-        list.add(Model("Dom", "Student", R.drawable.ic_launcher_foreground))
+        list.add(Model("Dom", "Student", R.drawable.me))
         list.add(Model("Bob", "Human", R.drawable.ic_launcher_foreground))
         list.add(Model("John", "Hobo", R.drawable.ic_launcher_foreground))
 
